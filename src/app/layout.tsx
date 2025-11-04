@@ -1,8 +1,8 @@
-// src/app/layout.tsx
 
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "../components/footer";
+import Products from "./products/page";
 
 export const metadata = {
   title: "My Next.js App",
